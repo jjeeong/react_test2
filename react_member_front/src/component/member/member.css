@@ -1,0 +1,37 @@
+* {
+  text-decoration: none;
+}
+
+.member-list-wrap {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.insert {
+  width: 800px;
+  margin: 20px auto;
+  text-align: right;
+}
+
+.member-list-wrap > h3 {
+  text-align: center;
+  color: tomato;
+  font-size: 30px;
+}
+.member-list-wrap table {
+  width: 800px;
+  margin: 0 auto;
+  border-spacing: 0;
+  border: 1px solid black;
+}
+.member-list-wrap th {
+  background-color: tomato;
+  color: #fff;
+  height: 40px;
+  border: 1px solid black;
+}
+.member-list-wrap td {
+  padding-left: 10px;
+  border: 1px solid black;
+  height: 30px;
+}
